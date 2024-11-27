@@ -20,22 +20,33 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Instituições Bancárias Futurísticas ;)
+ Instituições Bancárias do Futuro 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O atendimento bancário do futuro é projetado para ser mais eficiente, personalizado e acessível, utilizando tecnologias avançadas para melhorar a experiência do cliente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+https://chatgpt.com/
+Inteligência Artificial (IA): Uso de IA para prever as necessidades dos clientes e oferecer soluções personalizadas em tempo real.
+Holografia: Interfaces holográficas para consultas e interações, substituindo telas tradicionais.
+Assistentes virtuais e robôs: Robôs físicos ou avatares digitais para atender dúvidas comuns ou guiar clientes no ambiente bancário.
+Automação: Processos rápidos e simplificados por meio de sistemas automáticos que reduzem a intervenção humana.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A criação de um banco futurista envolve a combinação de tecnologias avançadas, design inovador e uma abordagem centrada no cliente para atender às demandas do mercado financeiro moderno.
+Determinar as necessidades e expectativas de diferentes segmentos de clientes.
+Considerar tendências como a digitalização, sustentabilidade e inclusão financeira.
+Estudo do mercado:
+Estabelecer metas claras, como acessibilidade, sustentabilidade ou personalização total.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+Criar um banco inovador que não apenas atende às necessidades atuais, mas também está preparado para liderar o setor financeiro no futuro.
+#
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Bnaco 100% digital: Operações sem necessidade de agências físicas.
+Sustentabilidade: Foco em operações verdes e impacto positivo no meio ambiente.
+Personalização: Serviços adaptados às necessidades individuais usando dados e IA.
+
 ```
 
 ### Exemplos e Insigths
